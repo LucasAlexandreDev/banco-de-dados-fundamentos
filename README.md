@@ -18,3 +18,17 @@ Estudo introdutório sobre Banco de Dados, abordando:
 ```
 cd aula-01-conceitos-basicos
 ```
+
+### Aula 01 – Continuação: SGBD e Modelagem Conceitual (MER)
+Aprofundamento nos conceitos de Banco de Dados, com foco em:
+- Papel do SGBD (Sistema de Gerenciamento de Banco de Dados)  
+- Métodos de acesso aos dados (DDL, DML e DCL)  
+- Vantagens do uso de um SGBD  
+- Introdução ao Modelo Entidade-Relacionamento (MER)  
+- Entidades, atributos, relacionamentos e cardinalidade  
+- Atividade prática de modelagem conceitual sem uso de softwares específicos  
+
+📁 Caminho do conteúdo:
+```
+cd aula-01-continuacao-sgbd-e-mer
+```
