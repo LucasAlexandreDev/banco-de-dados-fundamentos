@@ -32,3 +32,21 @@ Aprofundamento nos conceitos de Banco de Dados, com foco em:
 ```
 cd aula-01-continuacao-sgbd-e-mer
 ```
+
+### Aula 02 – Modelagem Conceitual (MER) – Prática
+
+Aplicação prática do Modelo Entidade-Relacionamento (MER), com foco na
+interpretação de regras de negócio e construção de modelos conceituais completos.
+
+Estudo e desenvolvimento de:
+- Identificação de entidades e atributos
+- Definição de relacionamentos
+- Cardinalidade mínima e máxima
+- Entidades associativas
+- Estruturação e organização visual do MER
+- Atividade prática de modelagem conceitual em folha A4
+
+📁 Caminho do conteúdo:
+```
+aula-02-exercicios-a4-mer
+```
